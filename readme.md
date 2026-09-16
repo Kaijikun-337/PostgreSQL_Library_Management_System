@@ -1,4 +1,3 @@
-```
 # PostgreSQL Library Management System
 
 A small library-management application written in Python using PostgreSQL and `psycopg2`.
